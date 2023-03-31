@@ -16,6 +16,7 @@
 
 * [Events](api/events.md)
 * [EWArena](api/ewarena.md)
+* [EggwarsManager](api/eggwarsmanager.md)
 
 ## Misc
 
