@@ -47,3 +47,9 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="command-and-permissions/permissions.md" %}
 [permissions.md](command-and-permissions/permissions.md)
 {% endcontent-ref %}
+
+## Other pages
+
+{% content-ref url="misc/troubleshooting.md" %}
+[troubleshooting.md](misc/troubleshooting.md)
+{% endcontent-ref %}
