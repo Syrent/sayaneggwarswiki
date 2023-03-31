@@ -4,16 +4,15 @@
 **Note:** All command permissions start with `sayaneggwars.command.use.<command>.<argument>`.
 {% endhint %}
 
-| `use`                        | Allows usage of all plugin basic commands.                   |
+| `help`                       | Allows usage of `/ew help` command.                          |
 | ---------------------------- | ------------------------------------------------------------ |
-| `use.help`                   | Allows usage of `/ew help` command.                          |
-| `use.setup`                  | Allows usage of `/ew setup` command.                         |
-| `use.setup.position`         | Allows usage of `/ew setup <arena> position1/2` command.     |
-| `use.setup.waiting`          | Allows usage of `/ew setup <arena> waiting` command.         |
-| `use.setup.spectator`        | Allows usage of `/ew setup <arena> spectator` command.       |
-| `use.setup.mode`             | Allows usage of `/ew setup <arena> mode` command.            |
-| `use.setup.team.size`        | Allows usage of `/ew setup <arena> team size` command.       |
-| `use.setup.generator`        | Allows usage of `/ew setup <arena> generator` command.       |
+| `setup`                      | Allows usage of `/ew setup` command.                         |
+| `setup.position`             | Allows usage of `/ew setup <arena> position1/2` command.     |
+| `setup.waiting`              | Allows usage of `/ew setup <arena> waiting` command.         |
+| `setup.spectator`            | Allows usage of `/ew setup <arena> spectator` command.       |
+| `setup.mode`                 | Allows usage of `/ew setup <arena> mode` command.            |
+| `setup.team.size`            | Allows usage of `/ew setup <arena> team size` command.       |
+| `setup.generator`            | Allows usage of `/ew setup <arena> generator` command.       |
 | `command.use.setup.team.add` | Allows usage of `/ew setup <arena> team add` command.        |
 | `setup.team.egg.set`         | Allows usage of `/ew setup <arena> team egg set` command.    |
 | `setup.team.egg.remove`      | Allows usage of `/ew setup <arena> team egg remove` command. |

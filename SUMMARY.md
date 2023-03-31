@@ -11,3 +11,7 @@
 
 * [📜 Commands](command-and-permissions/commands.md)
 * [📑 Permissions](command-and-permissions/permissions.md)
+
+## Misc
+
+* [🧯 Troubleshooting](misc/troubleshooting.md)
