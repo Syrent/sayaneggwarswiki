@@ -12,6 +12,11 @@
 * [📜 Commands](command-and-permissions/commands.md)
 * [📑 Permissions](command-and-permissions/permissions.md)
 
+## API
+
+* [Events](api/events.md)
+* [EWArena](api/ewarena.md)
+
 ## Misc
 
 * [🧯 Troubleshooting](misc/troubleshooting.md)
