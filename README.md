@@ -40,14 +40,10 @@ We're excited to have you on board and can't wait to see what you create with Sa
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="command-and-permissions/commands.md" %}
+[commands.md](command-and-permissions/commands.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="command-and-permissions/permissions.md" %}
+[permissions.md](command-and-permissions/permissions.md)
 {% endcontent-ref %}
