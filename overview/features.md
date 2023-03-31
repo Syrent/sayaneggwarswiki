@@ -16,7 +16,7 @@ With SayanEggwars, the plugin creates infinite instances of an arena, so players
 This system requires Pensieve to be installed on the server
 {% endhint %}
 
-SayanEggwars features a record and replay system that allows players to review their matches using the Pensieve system. This feature provides a great way for players to improve their gameplay and learn from their mistakes.
+SayanEggwars features a record and replay system that allows players to review their matches using the Pensieve plugin. This feature provides a great way for players to improve their gameplay and learn from their mistakes or even can be used as an Over Watch system for detecting cheaters by watching gameplay replays.
 
 ## Easy Setup
 
