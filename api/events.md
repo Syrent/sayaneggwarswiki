@@ -26,4 +26,8 @@ This event is fired whenever a new arena template is generated. It contains info
 
 This event is fired whenever a player dies in an Eggwars game. It contains information about the player that died. This event is useful for plugins that need to perform additional operations when a player dies, such as awarding points to the player's opponents.
 
+## PlayerJoinTeamEvent
+
+PlayerJoinTeamEvent This event is fired whenever a player joins a team in an Eggwars game. It contains information about the arena, player, and team involved in the event. This event is useful for plugins that need to perform additional operations when a player joins a team.
+
 To use these events in your plugin, you will need to register a listener for each event. Listeners can be registered using the `registerEvents` method provided by the Bukkit API. When an event is fired, any registered listeners will be called in the order they were registered. In your listener, you can perform any additional operations that are necessary based on the event that was fired.
