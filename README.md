@@ -53,3 +53,10 @@ We've put together some helpful guides for you to get setup with our product qui
 {% content-ref url="misc/troubleshooting.md" %}
 [troubleshooting.md](misc/troubleshooting.md)
 {% endcontent-ref %}
+
+## Development (API)
+
+{% content-ref url="api/events.md" %}
+[events.md](api/events.md)
+{% endcontent-ref %}
+
